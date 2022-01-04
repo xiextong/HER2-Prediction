@@ -2,7 +2,9 @@
 Achieve HER2 classification of breast cancer
 
 You can run the test file directly from the features I extracted.
-The extracted features are in ../Her2_Prediction/feature/.
+The extracted features and best model of deep learning are in 链接：https://pan.baidu.com/s/1i7M2W4Bei82A6CnTI_40FQ 
+提取码：1234 
+
 The  test code is in ../Her2_Prediction/3_classifier/.
 
 all_lable.pkl stores the labels of the data.
